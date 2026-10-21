@@ -17,3 +17,4 @@ uv.lock
 pyproject.toml
 data/
 chroma_arxiv/
+venv/
