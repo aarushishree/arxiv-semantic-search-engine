@@ -1,0 +1,2 @@
+data/arxiv_data.pkl filter=lfs diff=lfs merge=lfs -text
+chroma_arxiv/** filter=lfs diff=lfs merge=lfs -text
